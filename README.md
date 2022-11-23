@@ -10,8 +10,8 @@
 - 📫 How to reach me **akif.unlu44@gmail.com**
 
 <p>
-  <img align="center" width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=makifunlu&" alt="makifunlu" />
-  <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=makifunlu&show_icons=true&locale=en" alt="makifunlu" />
+  <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=makifunlu&" alt="makifunlu" />
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=makifunlu&show_icons=true&locale=en" alt="makifunlu" />
 </p>
 <img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs?username=makifunlu&show_icons=true&locale=en&layout=compact" alt="makifunlu" />
 <h3 align="left">Languages and Tools:</h3>
