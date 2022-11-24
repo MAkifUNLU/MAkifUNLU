@@ -2,12 +2,15 @@
 <h3 align="center">A passionate frontend, mobile developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makifunlu&label=Profile%20views&color=0e75b6&style=flat" alt="makifunlu" /> </p>
-
+<p>
+<img width="200" align="right" src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif" />
 - 🔭 I’m currently working on [HAS Turizm](https://github.com/zeritte/hasturizm)
 
 - 🌱 I’m currently learning **Web3, dApps**
 
 - 📫 How to reach me **akif.unlu44@gmail.com**
+</p>
+
 
 <p>
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=makifunlu&" alt="makifunlu" />
