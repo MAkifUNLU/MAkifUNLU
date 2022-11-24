@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makifunlu&label=Profile%20views&color=0e75b6&style=flat" alt="makifunlu" /> </p>
 <p>
-<img width="210" align="right" src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif" />
+<img width="200" align="right" src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif" />
   
 - 🔭 I’m currently working on [HAS Turizm](https://github.com/zeritte/hasturizm)
 
