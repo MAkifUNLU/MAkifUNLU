@@ -5,7 +5,7 @@
 <p>
 <img width="190" align="right" src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif" />
   
-- 🔭 I’m currently working on [HAS Turizm](https://github.com/zeritte/hasturizm)
+<!--- - 🔭 I’m currently working on [HAS Turizm](https://github.com/zeritte/hasturizm) --->
 
 - 🌱 I’m currently learning **Web3, dApps**
 
