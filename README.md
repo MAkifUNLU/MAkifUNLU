@@ -30,4 +30,4 @@
 <p align="left">
 <a href="https://twitter.com/munlu44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munlu44" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehmet akif ünlü" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet akif ünlü" height="30" width="40" /></a>
-</p> --->
+</p>
